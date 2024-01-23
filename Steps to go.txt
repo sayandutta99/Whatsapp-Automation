@@ -1,0 +1,9 @@
+Open Pycharm and install the basic python libraries 
+Open the Folder and click on the terminal to install the external libraries
+
+1. pip install pywhatkit -> enter
+
+Write the code accordingly :
+You have to import 6 external libraries inside the code.
+
+import pywhatkit (Whatsapp kit)
